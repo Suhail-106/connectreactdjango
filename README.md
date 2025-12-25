@@ -18,3 +18,22 @@ cd connectreactdjango
 ## 2️⃣ Create and activate Python virtual environment
 ```bash
 python -m venv venv
+
+```
+## Windows
+```bash
+venv\Scripts\activate
+
+```
+## Mac/Linux
+```bash
+source venv/bin/activate
+
+```
+##3️⃣ Backend setup (Django)
+```bash
+cd backend
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
