@@ -30,10 +30,31 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ```
-##3️⃣ Backend setup (Django)
+## 3️⃣ Backend setup (Django)
 ```bash
 cd backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+```
+## 4️⃣ Frontend setup (React) — Open second terminal
+```bash
+cd connectreactdjango/frontend
+npm install
+npm start
+
+```
+## And after run in chrome or browser
+```bash
+Frontend runs at: http://localhost:3000/
+
+
+
+
+
+
+
+
+
 
