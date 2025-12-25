@@ -12,8 +12,9 @@ Follow the steps below to run the project locally.
 
 ```bash
 git clone https://github.com/Suhail-106/connectreactdjango.git
-cd connectreactdjango
+cd connectreactdjango  
 
-## Step 2: Create virtual environment for backend
+---
+<h1> Step 2: Create virtual environment for backend</h1>
 
-python -m venv venv
+```python -m venv venv
