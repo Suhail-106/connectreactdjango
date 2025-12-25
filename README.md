@@ -1,20 +1,20 @@
-# Connect React + Django Project
+# Connect React + Django Full Setup Guide
 
 This project contains:
 - Backend: Django
 - Frontend: React
 
-Follow the steps below to run the project locally.
+Follow the steps below to run the project on your local machine.
 
 ---
 
-## Step 1: Clone the repository
+## 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/Suhail-106/connectreactdjango.git
-cd connectreactdjango  
+cd connectreactdjango
 
----
-<h1> Step 2: Create virtual environment for backend</h1>
-
-```python -m venv venv
+```
+## 2️⃣ Create and activate Python virtual environment
+...
+python -m venv venv
