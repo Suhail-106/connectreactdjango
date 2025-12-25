@@ -16,5 +16,5 @@ cd connectreactdjango
 
 ```
 ## 2️⃣ Create and activate Python virtual environment
-...
+```bash
 python -m venv venv
